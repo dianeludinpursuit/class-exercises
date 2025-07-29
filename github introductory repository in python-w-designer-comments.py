@@ -20,7 +20,11 @@ def print_introduction():
     introduction_text = """
 Introduction
 
-Welcome to my GitHub repository for Pursuit! As Emily Dickinson, a poet of profound observation, once wrote, "That it will never come again / Is what makes life so sweet." This sentiment resonates with the journey of learning and creation encapsulated within this repository—each project a unique moment, never to be precisely replicated, yet contributing to a growing tapestry of skill and understanding. Feel free to explore the different directories to see my work, a testament to the sweet, fleeting moments of development and discovery.
+Welcome to my GitHub repository for Pursuit! As Emily Dickinson, a poet of profound observation, once wrote, 
+"That it will never come again / Is what makes life so sweet." This sentiment resonates with the journey of 
+learning and creation encapsulated within this repository—each project a unique moment, never to be precisely 
+replicated, yet contributing to a growing tapestry of skill and understanding. Feel free to explore the different 
+directories to see my work, a testament to the sweet, fleeting moments of development and discovery.
 """
     # This line takes the 'introduction_text' we just prepared and
     # makes it visible. In a web context, this is similar to how text
